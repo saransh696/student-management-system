@@ -1,6 +1,6 @@
-## student-management-system
+# student-management-system
 
-#eatures:
+##features:
 -add student
 -view student
 -delete student
